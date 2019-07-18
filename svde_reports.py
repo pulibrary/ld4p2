@@ -2,10 +2,10 @@
 #-*- coding: utf-8 -*-
 """
 For LD4P2: get quarterly updates for share-vde
-From http://bit.ly/SVDE_Record_submission
-	After the first whole extraction the library should send three different files: new records, updated records, deleted	records.
+From http://bit.ly/SVDE_Record_submission: After the first whole extraction the library should send three different files: new records, updated records, deleted records.
 First report was run 20181116, reviewed by jeb and rh in 201901, and submitted 20190118
-See also LD4P-Cohort institutions and content: https://docs.google.com/spreadsheets/d/18LQQAUi_O87OoTpkUmvh9xFCSGUe0P_VArwvQ6Y1eVk/edit#gid=1394834818
+See also LD4P-Cohort institutions and content (sign-in required):
+https://docs.google.com/spreadsheets/d/18LQQAUi_O87OoTpkUmvh9xFCSGUe0P_VArwvQ6Y1eVk
 From 20190531
 pmg
 """
